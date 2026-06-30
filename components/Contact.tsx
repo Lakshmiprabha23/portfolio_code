@@ -69,7 +69,7 @@ export default function Contact() {
           <Github size={18} className="text-accent" />
           <span className="text-sm text-text-secondary">GitHub</span>
           <span className="text-sm text-text-primary break-all">
-            github.com/Lakshmiprabha23
+            https://github.com/Lakshmiprabha23
           </span>
         </motion.a>
 
@@ -84,7 +84,7 @@ export default function Contact() {
           <Linkedin size={18} className="text-accent" />
           <span className="text-sm text-text-secondary">LinkedIn</span>
           <span className="text-sm text-text-primary break-all">
-            linkedin.com/in/lakshmiprabha-arunagiri
+            https://linkedin.com/in/lakshmiprabha-arunagiri
           </span>
         </motion.a>
 

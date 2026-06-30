@@ -10,7 +10,7 @@ export const site = {
     "Nearly 2 years of experience building production-ready GenAI applications — LLM integration, multi-agent systems, and RAG pipelines using Python, FastAPI, AWS Bedrock, MLflow, and PostgreSQL.",
   // TODO: replace these with your real links before deploying
   links: {
-    github: "github.com/Lakshmiprabha23",
+    github: "https://github.com/Lakshmiprabha23",
     linkedin: "https://www.linkedin.com/in/lakshmiprabha-arunagiri",
     email: "mailto:lakshmiprabhaarunagiri0@gmail.com",
     resume: "/resume.pdf",
